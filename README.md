@@ -1,2 +1,2 @@
 # ProgettoR
-Progetto facoltativo di Probabilità e Statistica
+Progetto facoltativo del corso di Probabilità e Statistica A.A 23/24
